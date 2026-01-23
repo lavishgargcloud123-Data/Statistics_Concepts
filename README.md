@@ -15,12 +15,12 @@ E.g. Estimating Average Height of a Population with a 95% confidence interval
 
 Types of Variables
 
-Nominal -> Gender, Colours
-Ordinal -> Education levels, Customer Ratings
-Numerical -> Numerical Values E.g. Income, Age, Price
-Categorical -> Types of CARS, Product Categories ]-> Ordinal or Nominal
-Interval -> E.g. Temperature, IQ Score  ]-> Numerical Value
-Ratio -> Height, Weight, Age            ]-> Numerical Value
+1. Nominal -> Gender, Colours
+2. Ordinal -> Education levels, Customer Ratings
+3. Numerical -> Numerical Values E.g. Income, Age, Price
+4. Categorical -> Types of CARS, Product Categories ]-> Ordinal or Nominal
+5. Interval -> E.g. Temperature, IQ Score  ]-> Numerical Value
+6. Ratio -> Height, Weight, Age            ]-> Numerical Value
 
 A sample is taken out of the population:
 
@@ -33,30 +33,30 @@ Subset of the Populations
 
 Sampling Technique
 
-Random
-Stratified
-Systematic
-Clustered
+1. Random
+2. Stratified
+3. Systematic
+4. Clustered
 
 How to choose sampling Techniques
 
-Nature of Population
-Research Objective
-Available Resources
+1. Nature of Population
+2. Research Objective
+3. Available Resources
 
 
 Statistics Data Analysis
 
-Define the problem or research question
-Data Collection
-Data Cleaning
-Exploratory Data Analysis
-Data Transformation
-Hypothesis Formulation
-Statistical Testing
-Interpretation of Results
-Draw Conclusions
-Documents the Analysis Process / Report Making
+1. Define the problem or research question
+2. Data Collection
+3. Data Cleaning
+4. Exploratory Data Analysis
+5. Data Transformation
+6. Hypothesis Formulation
+7. Statistical Testing
+8. Interpretation of Results
+9. Draw Conclusions
+10. Documents the Analysis Process / Report Making
 
 Mean is best calculated in the case of No OUTLIERS
 Median is best calculated in case of OUTLIERS
@@ -80,11 +80,11 @@ IQR -> Not sensitive to Extreme Values
 
 Graphical Representations
 
-Histogram
-Box Plots
-Scatter Plots
+1. Histogram
+2. Box Plots
+3. Scatter Plots
 
-Histograms
+1. Histograms
 
 -> It displays the distribution of data. It can also be used for identifying Patterns, Outliers, and skewness
 
