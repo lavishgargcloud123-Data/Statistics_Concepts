@@ -8,14 +8,15 @@ E.g. 4 out of 5 dentists recommend Dentine
      Average score of students in Math
      The minimum number of participants required is six
 
-Statistics -> 1. Descriptive Statistics -> Collection, Analysis, and Interpretation of Data 
-              1.1 -> Understanding Main Features of Data (Organising and Summarizing E.g. Graphs, Tables, average.
-              
-           -> 2. Inferential Statistics -> Drawing Conclusions from the Data, E.g. Population (taking a sample)
+**Statistics ->**
+
+1. -> Descriptive Statistics -> Collection, Analysis, and Interpretation of Data 
+1.1 -> Understanding Main Features of Data (Organising and Summarizing E.g. Graphs, Tables, average.
+2. -> Inferential Statistics -> Drawing Conclusions from the Data, E.g. Population (taking a sample)
 
 E.g. Estimating Average Height of a Population with a 95% confidence interval
 
-Types of Variables
+**Types of Variables**
 
 1. Nominal -> Gender, Colours
 2. Ordinal -> Education levels, Customer Ratings
@@ -30,8 +31,8 @@ Why Sample?
 
 Subset of the Populations
 
--> To reduce the cost of data collection
--> Sample is the subset of the population
+1. To reduce the cost of data collection
+2. Sample is the subset of the population
 
 Sampling Technique
 
@@ -60,33 +61,32 @@ Statistics Data Analysis
 9. Draw Conclusions
 10. Documents the Analysis Process / Report Making
 
-Mean is best calculated in the case of No OUTLIERS
-Median is best calculated in case of OUTLIERS
-Mode is best calculated in the case of Categorical Variables
+**Mean** is best calculated in the case of No OUTLIERS.
+**Median** is best calculated in case of OUTLIERS.
+**Mode** is best calculated in the case of Categorical Variables.
 
 
-Measures of Dispersion:
+**Measures of Dispersion:**
 
--> Degree of Variation
--> Range or IQR ( Q3 - Q1 -> 50% of middle data)
--> Quartiles, Percentiles
--> Variance and STD
+1. Degree of Variation
+2. Range or IQR ( Q3 - Q1 -> 50% of middle data)
+3. Quartiles, Percentiles
+4. Variance and STD
 
 
-NOTE: Range is sensitive to Extreme Values
-      Range does not consider the distribution of the data
-      Range is suitable for Small Datasets.
-
+NOTE: 1-> Range is sensitive to Extreme Values
+      2-> Range does not consider the distribution of the data
+      3-> Range is suitable for Small Datasets.
 IQR -> Not sensitive to Extreme Values
 
 
-Graphical Representations
+**Graphical Representations**
 
 1. Histogram
 2. Box Plots
 3. Scatter Plots
 
-1. Histograms
+**1. Histograms**
 
 -> It displays the distribution of data. It can also be used for identifying Patterns, Outliers, and skewness
 
