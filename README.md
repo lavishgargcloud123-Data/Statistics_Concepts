@@ -106,7 +106,9 @@ A box plot is useful to show the spread of data and identify Outliers
 
 
 One box kind of representation for a box plot is generated.
+
 BOX -> IQR (Q3 - Q1) -> Length of the Box
+
 Median is also provided as Q2
 
 
