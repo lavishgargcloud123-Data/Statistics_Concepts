@@ -8,8 +8,10 @@ E.g. 4 out of 5 dentists recommend Dentine
      Average score of students in Math
      The minimum number of participants required is six
 
-Statistics -> Descriptive Statistics -> Collection, Analysis, and Interpretation of Data -> Understanding Main 						Features of Data (Organising and Summarizing E.g. Graphs, Tables, average.
-           -> Inferential Statistics -> Drawing Conclusions from the Data, E.g. Population (taking a sample)
+Statistics -> 1. Descriptive Statistics -> Collection, Analysis, and Interpretation of Data 
+              1.1 -> Understanding Main Features of Data (Organising and Summarizing E.g. Graphs, Tables, average.
+              
+           -> 2. Inferential Statistics -> Drawing Conclusions from the Data, E.g. Population (taking a sample)
 
 E.g. Estimating Average Height of a Population with a 95% confidence interval
 
