@@ -93,3 +93,27 @@ IQR -> Not sensitive to Extreme Values
 E.g. Frequency Vs Values category can be plotted.
 
 Based on skewness -> Symmetric, Right Skewed, Left Skewed
+
+1. Right Skewed -> Outliers on Right Side. (Mean > Median)
+2. Left Skewed -> Outliers on Left Side.   (Median > Mean)
+
+2. Box Plots
+
+A box plot is useful to show the spread of data and identify Outliers
+
+One box kind of representation for a box plot is generated.
+BOX -> IQR (Q3 - Q1) -> Length of the Box
+Median is also provided as Q2
+
+3. Scatter Plots
+Scatter Plots are used for visualisations of relationships between two continuous variables.
+
+How does the one change when changing the other variable?
+
+**Why are Scatter Plots Used?**
+
+1. Identifying Patterns, Trends and Correlations
+2. Identifying Outliers and understanding the strengths and direction of the relation.
+
+Relations can be +ve, -ve and No Relation
+
